@@ -110,7 +110,6 @@ const init = function () {
   searchView.addHandlerSearch(controlSearchRecipes);
   paginationView.addHandlerClick(paginationController);
   addRecipeView.addHandlerSubmitRecipe(controlAddRecipe);
-  newFeature();
 };
 
 init();
