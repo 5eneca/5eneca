@@ -99,6 +99,7 @@ const controlAddRecipe = async function (data) {
 
 const newFeature = function () {
   console.log('Welcome to the Forkify app :)');
+  console.log('Checking Netlify CI/CD :)');
 };
 
 const init = function () {
